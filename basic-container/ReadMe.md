@@ -1,4 +1,4 @@
-# Docker behaves differnetly on SELinux configured platforms. Also docker versions effect systemd running inside docker containers.
+# Docker behaves differently on SELinux configured platforms. Also docker versions effect systemd running inside docker containers.
 # Below are few use-cases.
 
 # SELinux disabled
